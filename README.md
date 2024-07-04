@@ -20,4 +20,4 @@ A fun page website for the TV show "House of the Dragon" containing a Characters
 
 ## Deployment
 
-The website is deployed at: [Deployed URL]
+The website is deployed at: https://armarquette3e.github.io/House-of-the-Dragon/
