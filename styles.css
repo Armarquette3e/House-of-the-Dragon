@@ -4,7 +4,7 @@
     --secondary-color: #ffcc00;
     --text-color: #ffffff;
     --background-color: #000000;
-    --link-color: #ffcc00;
+    --link-color: #ffffff;
 }
 
 body {
@@ -31,6 +31,8 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
     text-transform: uppercase;
+    color: var(--link-color);
+    text-decoration: none;
 }
 
 .header__link {
@@ -48,7 +50,7 @@ body {
 .hero {
     text-align: center;
     padding: 100px 20px;
-    background-image: url('path-to-hero-image.jpg');
+    background-image: url('assets/House_of_Dragon.webp');
     background-size: cover;
     background-position: center;
 }
